@@ -41,7 +41,7 @@ minutos = int(float(minutosfloat))
 print(f"""
 {titulo}, Google
 
-{hora}:{minutos}h
+{hora} horas e {minutos} minutos
     
 {local}
     
